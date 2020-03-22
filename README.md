@@ -1,1 +1,1 @@
-# plant_net
+# PlantNet
