@@ -1,1 +1,1 @@
-# PlantNet
+# plant-net
